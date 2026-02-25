@@ -36,7 +36,7 @@ pyperclip — 读取系统剪切板内容
 
 本工具会：
 
-读取剪切板中的 V2Ray 分享链接（vmess / vless / trojan）
+读取剪切板中的 V2Ray 分享链接（TUIC/vmess / vless / trojan）主要是TUIC,必须转换才能识别
 
 解析并重构为 Hiddify 兼容格式
 
